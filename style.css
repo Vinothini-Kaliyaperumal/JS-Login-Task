@@ -1,0 +1,54 @@
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.first{
+  margin-left: 540px;
+  color:aliceblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 20px;
+}
+#name{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  margin-left: 540px;
+  background-color: #ccc;
+  width: 22%
+}
+#password{
+  margin-left: 540px;
+  width: 22%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: #ccc;
+  color: white;
+  /* margin-top: 20px; */
+}
+button[type=submit] {
+  width: 7%;
+  background-color:lightblue;
+  color:gray;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-left: 640px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 30px;
+} 
+input[type=submit]:hover {
+  background-color:lightblue;
+}
+.log{
+   text-align: center;
+   margin-top: 120px;
+   margin-bottom: 10px;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   color:aliceblue;
+}
